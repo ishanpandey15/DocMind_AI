@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-core
+langchain-groq
+sentence-transformers
+torch
+faiss-cpu
+pdfplumber
+unstructured
+streamlit
+python-dotenv
+numpy

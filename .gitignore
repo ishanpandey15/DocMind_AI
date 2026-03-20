@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv*/
+env/
+.env
+.venv
+
+# API Keys — kabhi bhi push mat karna!
+.env
+*.env
+secrets.py
+
+# FAISS index — heavy files, regenerate ho sakti hain
+vectordb/index.faiss
+vectordb/index.pkl
+
+# Data folder — user ki personal files
+data/*.pdf
+data/*.txt
+data/*.md
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
