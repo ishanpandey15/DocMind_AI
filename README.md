@@ -118,7 +118,7 @@ System:
   Answer using ONLY the provided context.
   If not in context, say so. Never fabricate.
 
-
+```
 ## Images
 - Present in the assets directory
 
