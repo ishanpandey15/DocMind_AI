@@ -117,3 +117,11 @@ System:
   You are DocMind, a helpful document assistant.
   Answer using ONLY the provided context.
   If not in context, say so. Never fabricate.
+
+
+## Images
+- Present in the assets directory
+
+## Video Demo
+[![DocMind AI Demo]]((https://drive.google.com/file/d/1fC4tci11hOFZbNSoTXWiBFQnlpAXgZrX/view?usp=sharing))
+
