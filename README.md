@@ -123,5 +123,5 @@ System:
 - Present in the assets directory
 
 ## Video Demo
-[![DocMind AI Demo]]((https://drive.google.com/file/d/1fC4tci11hOFZbNSoTXWiBFQnlpAXgZrX/view?usp=sharing))
+[![DocMind AI Demo]]  ((https://drive.google.com/file/d/1fC4tci11hOFZbNSoTXWiBFQnlpAXgZrX/view?usp=sharing))
 
